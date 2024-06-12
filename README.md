@@ -1,6 +1,6 @@
-# This repository provides sample maps created for sustainable mobility
+## This repository provides sample maps created for sustainable mobility
 
-## Source of the sample map-based applications
+#### Source of the sample map-based applications
 
 | ID  | Published year | Link                                                                                                                            |
 |-----|----------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -21,6 +21,6 @@
 | R15 | 2020           | https://xyzt.ai/2020/12/01/become-a-traffic-data-rockstar/                                                                      |
 | R16 | 2022           | https://www.argaleo.com/en/oplossingen/fietsbeleid/                                                                             |
 
-# Image analysis
+#### Image analysis
 
 This tool provides five methods to calculate image complexity.
