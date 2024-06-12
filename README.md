@@ -1,3 +1,6 @@
+# Maps created for sustainable mobility
+
+
 # Image analysis
 
-This tool provide five methods to calculate image complexity.
+This tool provides five methods to calculate image complexity.
