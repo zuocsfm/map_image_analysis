@@ -23,4 +23,4 @@
 
 #### Image analysis
 
-This tool provides five methods to calculate image complexity.
+The codes are provided to calculate image complexity in terms of mean, standard deviation, skewness, entropy, magnitude slope, and fractal dimension.
